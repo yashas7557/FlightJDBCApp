@@ -60,7 +60,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.shanInfotech.flightJDBCApp.FlightJDBCApp</mainClass>
+                            <mainClass>com.shanInfotech.flightJDBCApp.FlightJDBCApp.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -71,7 +71,7 @@
       <artifactId>exec-maven-plugin</artifactId>
       <version>3.1.0</version>
       <configuration>
-        <mainClass>com.shanInfotech.flightJDBCApp.FlightJDBCApp</mainClass>
+        <mainClass>com.shanInfotech.flightJDBCApp.FlightJDBCApp.App</mainClass>
       </configuration>
     </plugin>
 			</plugins>
