@@ -60,7 +60,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.shanInfotech.vehicleServiceApp.VSMainApp</mainClass>
+                            <mainClass> com.shanInfotech.flightJDBCApp.FlightJDBCApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
